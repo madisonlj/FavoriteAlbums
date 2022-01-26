@@ -7,4 +7,4 @@ The "Tables" branch contains code for how I constructed the tables.
 
 The "Columns" branch contains code for how I inserted data into the tables.
 
-In the "Queries" branch you will find examples of realsitic questions one can ask about pulling and displaying data from this particular database, as well as the syntaxes used to do so.
+In the "Queries" branch you will find examples of realistic questions one can ask about pulling and displaying data from this particular database, as well as the syntaxes used to do so.
